@@ -34,5 +34,3 @@ The dataset used for this project contains a large collection of different types
 - `data/`: Directory containing the dataset files.
 - `requirements.txt`: File listing all the Python dependencies
 
-- 
-
